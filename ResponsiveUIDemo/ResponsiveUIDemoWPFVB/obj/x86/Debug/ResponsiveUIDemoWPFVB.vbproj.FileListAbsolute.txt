@@ -1,0 +1,27 @@
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.pdb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.xml
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\MainWindow.baml
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\MainWindow.g.vb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\Application.g.vb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB_MarkupCompile.cache
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.g.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.vbproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.xml
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.xml
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.xml
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\MainWindow.baml
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\MainWindow.g.vb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\Application.g.vb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB_MarkupCompile.cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.g.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.Resources.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\obj\x86\Debug\ResponsiveUIDemoWPFVB.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWPFVB\bin\Debug\ResponsiveUIDemoWPFVB.exe.config

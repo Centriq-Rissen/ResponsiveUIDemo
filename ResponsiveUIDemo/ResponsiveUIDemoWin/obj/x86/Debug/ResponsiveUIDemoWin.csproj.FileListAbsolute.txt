@@ -1,0 +1,16 @@
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\bin\Debug\ResponsiveUIDemoWin.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\bin\Debug\ResponsiveUIDemoWin.pdb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.pdb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.Form1.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\bin\Debug\ResponsiveUIDemoWin.exe.config
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\bin\Debug\ResponsiveUIDemoWin.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\bin\Debug\ResponsiveUIDemoWin.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.Form1.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.Properties.Resources.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWin\obj\x86\Debug\ResponsiveUIDemoWin.csproj.GenerateResource.Cache

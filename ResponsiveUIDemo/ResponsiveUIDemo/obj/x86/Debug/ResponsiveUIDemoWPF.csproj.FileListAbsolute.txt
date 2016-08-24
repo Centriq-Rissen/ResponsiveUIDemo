@@ -1,0 +1,24 @@
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\MainWindow.baml
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\MainWindow.g.cs
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\App.g.cs
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo_MarkupCompile.cache
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.g.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.Properties.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemoWPF.csproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\bin\Debug\ResponsiveUIDemo.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\bin\Debug\ResponsiveUIDemo.pdb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\bin\Debug\ResponsiveUIDemo.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\bin\Debug\ResponsiveUIDemo.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemoWPF.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\App.g.cs
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo_MarkupCompile.cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.g.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.Properties.Resources.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemoWPF.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\obj\x86\Debug\ResponsiveUIDemo.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemo\bin\Debug\ResponsiveUIDemo.exe.config

@@ -1,0 +1,19 @@
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.Form1.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.Resources.resources
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.vbproj.GenerateResource.Cache
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.pdb
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.xml
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.exe
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.xml
+c:\users\mike\documents\visual studio 2010\Projects\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.exe.config
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.xml
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.Form1.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.Resources.resources
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\obj\x86\Debug\ResponsiveUIDemoWinVB.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.exe
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.pdb
+C:\Users\student\Desktop\ResponsiveUIDemo\ResponsiveUIDemoWinVB\bin\Debug\ResponsiveUIDemoWinVB.xml

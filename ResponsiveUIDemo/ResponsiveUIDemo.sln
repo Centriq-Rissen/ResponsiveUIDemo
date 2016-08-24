@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveUIDemoWPF", "ResponsiveUIDemo\ResponsiveUIDemoWPF.csproj", "{6887F803-4869-4A9A-996E-FD823D00911C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponsiveUIDemoWin", "ResponsiveUIDemoWin\ResponsiveUIDemoWin.csproj", "{39B6DBC5-974B-45B2-BBB3-42DD567E0E59}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ResponsiveUIDemoWinVB", "ResponsiveUIDemoWinVB\ResponsiveUIDemoWinVB.vbproj", "{6700F652-EA92-424B-9FF3-28E11EA5A8C4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ResponsiveUIDemoWPFVB", "ResponsiveUIDemoWPFVB\ResponsiveUIDemoWPFVB.vbproj", "{8834C595-2791-460D-8322-647F1B4580E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6887F803-4869-4A9A-996E-FD823D00911C}.Debug|x86.ActiveCfg = Debug|x86
+		{6887F803-4869-4A9A-996E-FD823D00911C}.Debug|x86.Build.0 = Debug|x86
+		{6887F803-4869-4A9A-996E-FD823D00911C}.Release|x86.ActiveCfg = Release|x86
+		{6887F803-4869-4A9A-996E-FD823D00911C}.Release|x86.Build.0 = Release|x86
+		{39B6DBC5-974B-45B2-BBB3-42DD567E0E59}.Debug|x86.ActiveCfg = Debug|x86
+		{39B6DBC5-974B-45B2-BBB3-42DD567E0E59}.Debug|x86.Build.0 = Debug|x86
+		{39B6DBC5-974B-45B2-BBB3-42DD567E0E59}.Release|x86.ActiveCfg = Release|x86
+		{39B6DBC5-974B-45B2-BBB3-42DD567E0E59}.Release|x86.Build.0 = Release|x86
+		{6700F652-EA92-424B-9FF3-28E11EA5A8C4}.Debug|x86.ActiveCfg = Debug|x86
+		{6700F652-EA92-424B-9FF3-28E11EA5A8C4}.Debug|x86.Build.0 = Debug|x86
+		{6700F652-EA92-424B-9FF3-28E11EA5A8C4}.Release|x86.ActiveCfg = Release|x86
+		{6700F652-EA92-424B-9FF3-28E11EA5A8C4}.Release|x86.Build.0 = Release|x86
+		{8834C595-2791-460D-8322-647F1B4580E1}.Debug|x86.ActiveCfg = Debug|x86
+		{8834C595-2791-460D-8322-647F1B4580E1}.Debug|x86.Build.0 = Debug|x86
+		{8834C595-2791-460D-8322-647F1B4580E1}.Release|x86.ActiveCfg = Release|x86
+		{8834C595-2791-460D-8322-647F1B4580E1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
